@@ -17,23 +17,23 @@ p {color:#FFFFFF;
   width: 50%
   min-width: 40em;}
 
-.kanan {text-align:right;
+.kanan {text-align: right;
         background-color:#91AC67;}
 .kiri {text-align: left;
        background-color:#6E3511;}
 .tengah {text-align: center
          background-color:#22396F;}
-.kanan 2 {text-align:right;
+.kanan2 {text-align: right;
         background-color:#91AC67;}
-.kiri 2 {text-align:right;
+.kiri2 {text-align: left;
         background-color:#A82020;}
-.tengah 2 {text-align:right;
+.tengah2 {text-align: center;
         background-color:#F2842F;}
-.kanan 3 {text-align:right;
+.kanan3 {text-align: right;
         background-color:#123F36;}
-.kiri 3 {text-align:right;
+.kiri3 {text-align: left;
         background-color:#C49A45;}
-.tengah 3 {text-align:right;
+.tengah3 {text-align: center;
         background-color:#413333;}
 
 div {text-align: center;}
