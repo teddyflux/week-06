@@ -5,11 +5,23 @@ h1 {color:#6C1A1A;
    font-size: 72pt;
    font-weight: bold;
    font-family: sans-serif;
-   font-style: italics;}
+   font-style: italic;}
 
 p {color:#F8E0A4;
   background-color:#31AAA9;
   padding: 0.6em;
-  margin: 9.8em;
+  margin: auto;
+   margin-bottom: 2 em;
   text-align: right;
-  border: 3 px dashed black;}
+  border: 3 px dashed black;
+  width: 50%
+  min-width: 40em;}
+
+- kanan {text-align:right;}
+- kiri {text-align: left;}
+- tengah {text-align: center}
+
+div {text-align: center;}
+
+a {color: #A82020;
+   text-decoration:none;}
