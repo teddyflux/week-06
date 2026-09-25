@@ -1,3 +1,15 @@
 body {background-color:#F8E0A4;}
-h1 {color:#6C1A1A;}
-p {color:#31AAA9;}
+
+h1 {color:#6C1A1A;
+   text align: center;
+   font-size: 72pt;
+   font-weight: bold;
+   font-family: sans-serif;
+   font-style: italics;}
+
+p {color:#F8E0A4;
+  background-color:#31AAA9;
+  padding: 0.6em;
+  margin: 9.8em;
+  text-align: right;
+  border: 3 px dashed black;}
