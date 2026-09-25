@@ -7,7 +7,7 @@ h1 {color:#6C1A1A;
    font-family: sans-serif;
    font-style: italic;}
 
-p {color:#F8E0A4;
+p {color:#FFFFFF;
   background-color:#31AAA9;
   padding: 0.6em;
   margin: auto;
@@ -17,9 +17,24 @@ p {color:#F8E0A4;
   width: 50%
   min-width: 40em;}
 
-- kanan {text-align:right;}
-- kiri {text-align: left;}
-- tengah {text-align: center}
+- kanan {text-align:right;
+        background-color:#91AC67;}
+- kiri {text-align: left;
+       background-color:#6E3511;}
+- tengah {text-align: center
+         background-color:#22396F;}
+- kanan 2 {text-align:right;
+        background-color:#91AC67;}
+- kiri 2 {text-align:right;
+        background-color:#A82020;}
+- tengah 2 {text-align:right;
+        background-color:#F2842F;}
+- kanan 3 {text-align:right;
+        background-color:#123F36;}
+- kiri 3 {text-align:right;
+        background-color:#C49A45;}
+- tengah 3 {text-align:right;
+        background-color:#413333;}
 
 div {text-align: center;}
 
