@@ -17,23 +17,23 @@ p {color:#FFFFFF;
   width: 50%
   min-width: 40em;}
 
-- kanan {text-align:right;
+.kanan {text-align:right;
         background-color:#91AC67;}
-- kiri {text-align: left;
+.kiri {text-align: left;
        background-color:#6E3511;}
-- tengah {text-align: center
+.tengah {text-align: center
          background-color:#22396F;}
-- kanan 2 {text-align:right;
+.kanan 2 {text-align:right;
         background-color:#91AC67;}
-- kiri 2 {text-align:right;
+.kiri 2 {text-align:right;
         background-color:#A82020;}
-- tengah 2 {text-align:right;
+.tengah 2 {text-align:right;
         background-color:#F2842F;}
-- kanan 3 {text-align:right;
+.kanan 3 {text-align:right;
         background-color:#123F36;}
-- kiri 3 {text-align:right;
+.kiri 3 {text-align:right;
         background-color:#C49A45;}
-- tengah 3 {text-align:right;
+.tengah 3 {text-align:right;
         background-color:#413333;}
 
 div {text-align: center;}
